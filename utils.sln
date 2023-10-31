@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "utils", "utils\utils.csproj", "{06E9AFCB-3205-4816-82D4-304A31C65FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{06E9AFCB-3205-4816-82D4-304A31C65FF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "example", "example\example.csproj", "{A49D5719-744A-4813-9F18-2038B810C610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{A49D5719-744A-4813-9F18-2038B810C610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usb", "usb\usb.csproj", "{50F78203-33F9-488B-AE35-38F3AC1B52CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usb", "Usb\Usb.csproj", "{50F78203-33F9-488B-AE35-38F3AC1B52CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A9AD79-F03A-483E-BA2B-4A97E5068BF9}
 	EndGlobalSection
 EndGlobal

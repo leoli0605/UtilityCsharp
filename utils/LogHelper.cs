@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace utils;
+namespace Utils;
 
 public static class LogHelper
 {

@@ -1,4 +1,4 @@
-﻿namespace usb
+﻿namespace Usb
 {
     public class Class1
     {
